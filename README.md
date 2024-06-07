@@ -1,5 +1,5 @@
 
-## About Me
+## 🌟 About Me 
 I'm a passionate software developer developing scalable and delightful applications.
 
 - 🔭 I’m currently working on mobile applicaton development with react native
