@@ -2,7 +2,7 @@
 ## About Me
 I'm a passionate software developer developing scalable and delightful applications.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on mobile applicaton development with react native
 - 🌱 I’m currently learning React Native
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about anything
@@ -32,6 +32,8 @@ I'm a passionate software developer developing scalable and delightful applicati
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🌐 Social Links
