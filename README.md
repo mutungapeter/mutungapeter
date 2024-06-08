@@ -3,7 +3,6 @@
 👋 Hi, I’m Peter Mutunga
 
 I'm a passionate software developer developing scalable and delightful applications.
-- 🔭 I’m currently working on mobile applicaton development with react native
 - 🌱 I’m currently learning React Native
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about anything
