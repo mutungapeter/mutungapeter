@@ -3,8 +3,8 @@
 👋 Hi, I’m Peter Mutunga
 
 I'm a passionate software developer developing scalable and delightful applications.
-- 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with React Native
+- 🌱 I’m currently learning React Native &  kafka.Js
+- 🤔 I’m looking for help with React Native & kafka.Js
 - 💬 Ask me about anything
 - ⚡ Fun fact  I'm a coffee enthusiast, and I firmly believe that coffee is the ultimate fuel for coding sessions.My code gets stronger with each cup!
 -  How to reach me mutungapetrah@gmail.com/+254796652879
