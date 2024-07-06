@@ -3,8 +3,6 @@
 👋 Hi, I’m Peter Mutunga
 
 I'm a passionate software developer developing scalable and delightful applications.
-- 🌱 I’m currently learning mobile application development.
-- 🤔 I’m looking for help with mobile application development.
 - 💬 Ask me about anything
 - ⚡ Fun fact  I'm a coffee enthusiast, and I firmly believe that coffee is the ultimate fuel for coding sessions.My code gets stronger with each cup!
 -  How to reach me mutungapetrah@gmail.com/+254796652879
