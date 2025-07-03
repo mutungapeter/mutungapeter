@@ -40,8 +40,6 @@ I'm a passionate software developer developing scalable and delightful applicati
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/peter-mutunga-b8388a200/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail)](mailto:mutungapetrah@gmail.com)
 
-## 📊 GitHub Stats
-![Mutunga Peter GitHub stats](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutungapeter&layout=compact&theme=radical)
