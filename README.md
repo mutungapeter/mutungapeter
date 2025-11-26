@@ -47,11 +47,8 @@ I'm a passionate software developer developing scalable and delightful applicati
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Peter's GitHub stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutungapeter&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutungapeter&theme=radical&hide_border=true)
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/peter-mutunga-b8388a200/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail)](mailto:mutungapetrah@gmail.com)
