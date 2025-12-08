@@ -1,10 +1,9 @@
+## About Me 
+Hi, I’m Peter Sikuku
 
-##  About Me 
- Hi, I’m Peter Mutunga
-
-I'm a passionate software developer developing scalable and delightful applications.
--  Ask me about anything
--  How to reach me mutungapetrah@gmail.com/+254796652879
+I'm a passionate software developer developing scalable and delightful applications.  
+- Ask me about anything  
+- How to reach me: mutungapetrah@gmail.com / +254796652879
 
 ## My Tech Stack
 
@@ -17,11 +16,9 @@ I'm a passionate software developer developing scalable and delightful applicati
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) -->
-<!-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) -->
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-###  Styling
+### Styling
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,8 +27,6 @@ I'm a passionate software developer developing scalable and delightful applicati
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat&logo=redux&logoColor=white)
-
-
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -52,7 +47,10 @@ I'm a passionate software developer developing scalable and delightful applicati
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/peter-mutunga-b8388a200/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail)](mailto:mutungapetrah@gmail.com)
 
-
-## Top Languages
+## GitHub Stats
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutungapeter&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutungapeter&theme=radical)
+![GitHub PRs](https://img.shields.io/badge/PRs-0-green) <!-- You can replace 0 with PR count if available -->
+![GitHub Contributions](https://img.shields.io/badge/Contributions-0-blue) <!-- Replace 0 with actual contributions -->
+![GitHub Stars](https://img.shields.io/github/stars/mutungapeter?style=social)
