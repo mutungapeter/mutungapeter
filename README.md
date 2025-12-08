@@ -44,13 +44,11 @@ I'm a passionate software developer developing scalable and delightful applicati
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Social Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/peter-mutunga-b8388a200/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/peter-sikuku-718206350/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail)](mailto:mutungapetrah@gmail.com)
 
 ## GitHub Stats
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutungapeter&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mutungapeter&theme=radical)
-![GitHub PRs](https://img.shields.io/badge/PRs-0-green) <!-- You can replace 0 with PR count if available -->
-![GitHub Contributions](https://img.shields.io/badge/Contributions-0-blue) <!-- Replace 0 with actual contributions -->
-![GitHub Stars](https://img.shields.io/github/stars/mutungapeter?style=social)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutungapeter&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+![GitHub Stars](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&count_private=true&theme=radical&include_all_commits=true&card_width=300&hide_border=false&hide_title=false&hide_rank=false)
+
