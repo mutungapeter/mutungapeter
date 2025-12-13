@@ -48,7 +48,6 @@ I'm a passionate software developer developing scalable and delightful applicati
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail)](mailto:mutungapetrah@gmail.com)
 
 ## GitHub Stats
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutungapeter&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=mutungapeter&show_icons=true&count_private=true&theme=radical&include_all_commits=true&card_width=300&hide_border=false&hide_title=false&hide_rank=false)
 
