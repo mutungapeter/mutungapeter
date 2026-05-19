@@ -3,7 +3,7 @@ Hi, I’m Peter Sikuku
 
 I'm a passionate software developer developing scalable and delightful applications.  
 - Ask me about anything  
-- How to reach me: mutungapetrah@gmail.com / +254796652879
+- How to reach me: mutungapeterdev@gmail.com . +254751554882
 
 ## My Tech Stack
 
